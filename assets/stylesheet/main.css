@@ -4,3 +4,7 @@ h1 {
 ul li {
   color: blue;
 }
+ul + li {
+ color: red; 
+}
+
